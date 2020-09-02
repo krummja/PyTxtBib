@@ -1,0 +1,266 @@
+A Syntactic Analysis of Serial Verb Constructions in Southern Tati: The Takestani Dialect
+Neda Taherkhani
+Purdue University
+
+Abstract This study deals with the syntactic structure of Motion Predicates (MPs) expressed through Serial Verb Constructions (SVCs) in the Takestani dialect of Southern Tati. Two hypotheses are examined in this study: In hypothesis 1, Takestani verbal series are instances of SVCs, and therefore are mono-eventive. Two tests, single inflectional spine and shared agreement morpheme, provide evidence for this hypothesis. In hypothesis 2, Takestani verbal series are made of an underlying complementation structure proposed by Larson (1991). Two tests, subjunctive-under-negation and Negative Polarity Item (NPI), are used to prove this hypothesis. The scope of this study is limited to a comparison between complementation and coordination as two potential structures for Takestani MPs. 
+
+
+    1 Introduction
+        1.1 Goals and Approach
+The major goal of this study is to represent a syntactic analysis of Motion Predicates (MPs henceforth) in Sothern Tati. Southern Tati is an endangered language of Iran known by UNESCO’s “Atlas of the World’s Languages in Danger” project as “definitely” endangered. The Takestani dialect of Southern Tati, spoken in the city of Takestan in Iran, is analyzed in this study. 
+Following scholars like Borer (2005) and Ramchand (2008), as used in Benedicto & Salomon (2014) for MPs, this study takes a generative-constructivist approach in analyzing the structure of Takestani MPs expressed through SVCs. The study also aims at contributing to the documentation of Southern Tati. Example (1) represents the type of SVCs dealt with in this study. A list of glossing abbreviations can be found in Appendix A. 
+
+    (1) 
+
+In (1), tit͡tijɛ ‘girl’ is an agent bringing about the motion of the undergoer (i.e. undergoer of motion) t͡ʃɛlu ‘the sparrow’. The verbs oˈɢo ‘picked up’ and bɒˈʃin ‘threw’ express an establishment of agent-undergoer contact and the end of contact successively. The verbs bœˈʃœ ‘went’, beræˈsæs ‘reached’, and ɒˈniʃt ‘sat’ verbalize the undergoer’s movement along a 3-dimensional locational Path, its reaching the endpoint deræχte sær ‘tree top’, and its final posture/state of ‘sitting’ on the tree top (i.e. the endpoint). 
+        1.2 Background
+This section deals with some general properties of SVCs, including the available descriptive and syntactic accounts for them. 
+Along the lines of generally agreed-upon descriptive properties of SVCs stablished by Sebba (1987), Aikhenvald (2006), and Muysken (2006), this study characterizes SVCs in terms of (a) single event (i.e. mono-eventive) interpretation in spite of using more than one verb, (b) shared inflectional features like aspect and negation, and (c) lack of overt elements of syntactic dependency (e.g. coordination) used in non-serial languages. For instance, example (1) has a mono-eventive interpretation despite using three verbs each inflected for features like tense, aspect, and modality. Additionally, using a coordination conjunction like ɒsɒni ‘then’ breaks the mono-eventivity of (1) and turns it into a coordination of two unrelated events, as shown below in (2). The interpretation related to this event is ungrammatical for a mono-eventive reading below it.
+
+    (2)  
+
+
+Syntactically, this study adapts the structure of SVC proposed by Larson (1991). Larson discussed three prevailing proposals for the underlying structure of SVC, namely coordination, adjunction, and complementation, and proposed a structure for SVCs based on complementation, shown below in (3). 
+
+
+
+
+    (3) 
+
+Due to the semantic similarities between SVCs in serializing languages and secondary predicates in non-serializing languages like English, Larson (1991) derived SVC structures from the structure of secondary predicates, which was in turn derived by him from the structure of double-object constructions he had proposed in Larson (1988). Larson (1988) pointed out the existence of a structural asymmetry between direct and indirect objects. Specifically, indirect objects are c-commanded by direct objects (and not vice versa) and are structurally closer to the verb than direct objects, as represented in (4)b below for (4)a. 
+    (4) 
+    a. John sent a letter to Mary 
+    b. 
+	Larson 1988, p. 342
+
+As (4)b shows, the indirect object Mary is c-commanded by the direct object a letter (and not conversely) and is closer to the verb send than the direct object although a letter is closer to send in the surface in (4)a. In the same vein, Larson (1991) represented the secondary predicate (5)a in (5)b. 
+
+
+
+
+
+
+    (5) 
+        a. Caron rubbed her finger [raw]. 	
+        b. 
+	Larson (1991, p. 197)
+
+As shown by (5)b, the secondary predicate raw is c-commanded by the direct object her finger and is structurally closer to the verb rubbed than the direct object although in the surface in (5)a her finger is closer to rubbed. Larson (1991) proposed that the upper V in the shell structures is an empty head working as the landing site for the verb rubbed, as the verb moves up to assign case to the direct object her finger. According to Larson (1991), while non-serializing languages like English express secondary predicates with non-verbal constructs like AP raw in (5)a, serializing languages can express the same constructs with non-nominal constructs like VP kiri ‘kill’ shown below in (6)a. Larson then extended the secondary-predicate structure in (5)b to SVCs . For example, the Akan SVC (6)a is represented in (6)b. 
+    (6) 
+    a. Kofi		naki			Amba		kiri	
+Kofi		hit				Amba		kill
+‘Kofi 	struck 	Amba 		dead’.
+    b. 
+Larson, 1991, p. 201
+
+As we notice in (6)b, the VP kiri ‘kill’ is syntactically in the same position as the secondary predicate AP raw in (5)b in both being a complement, and hence being closer, to the verb as well as in being c-commanded by the direct object Amba. 
+        1.3 Hypothesis
+This study makes two hypotheses about the series of verbs like in example (1), which is repeated below in (7).
+    (7)  
+
+
+
+This study hypothesizes that verbs in the verbal series like (1) / (7) are mono-eventive (hypothesis 1 stated in (10)a). More specifically, despite using more than one verb, these series of verbs stand as a single unit strung together in a single event and not as independent units. 
+Structurally, along the lines of Larson (1991), this study hypothesizes that Tati MPs expressed through SVCs are made of a complementation structure (hypothesis 2 stated in (10)b). Following Larson’s line of argumentation, his complementation structure is extended in this study to Tati SVCs like(1) / (7). As such, the structure related to this example is represented below in (8). 
+    (8) 
+
+
+As shown in (8), and in the same vein as the structures in (4) and (5), c-command holds between the DP-undergoer t͡ʃɛlu ‘sparrow’ and the locative Phrase (i.e. endpoint) deræχte sær ‘tree top’. 
+Note that the event related to example (7) can be expressed through a mono-verbal event, with only an expressed verb of separation and phonologically-null trajectory, telic, and resultative heads, shown in (9). 
+
+    (9)  
+
+As the structure in (8) shows, different components of Tati MPs are recursively merged based on a layered complementation structure, such that the higher components c-command the lower components in a single event-denoting structure. This study, by providing evidence for such c-command relationships, proves the existence of an Larsonian complementation structure for Tati MPs which, in turn, rules out other alternative explanations such as coordination. 
+
+In sum, this study has two main hypotheses about Takestani MPs, which are listed below in (10) a&b. 
+
+    (10)  
+
+    a. Hypothesis 1
+Tati verbal series are instances of SVCs, and as such they are mono-eventive. 
+    b. Hypothesis 2
+Tati SVCs are recursively merged in a layered complementation structure.
+
+    2 Evidence for Hypotheses 1
+This section uses the descriptive characteristics of SVCs (i.e. mono-eventive interpretation, single inflectional morphology, and lack of elements of syntactic dependency) to provide evidence for the hypothesis in (10)a through two tests. These tests include (2.1) single inflectional spine (including aspect and negation in this study) and (2.2) shared agreement morpheme in Takestani SVCs. 
+        2.1 Test 1: Single Inflectional Spine
+As mentioned earlier, one of the agreed-upon descriptive properties of SVCs is that their verbs “share” inflectional features like tense, modality, and aspect. Consider example (11) in Aikhenvald (2006, P 13) from Igbo. 
+
+    (11) 
+
+As shown in (11), the verbs tì ‘hit’ and gbù ‘kill’ share a single value (i.e. past) for tense and also a single marker (i.e. rù) for that value. Now consider example (1) repeated below in (12) to examine how inflectional features are “shared” in Tati SVC expressing MPs.
+    (12)  
+
+
+The verbs in (12), namely bɒˈʃin ‘threw’, bœˈʃœ ‘went’, beræˈsæs ‘reached’, and ɒˈniʃt ‘sat’ each have past tense, indicative modality, and perfective aspect. Note that not all of these features are morphologically marked on all of the verbs in (12). For example, bœˈʃœ (went), unlike the other verbs, is not morphologically marked for the past tense. Based on the morpho-phonological properties of Tati that distinguishes past tense from present, I will assume that the phonological form of bœˈʃœ (went) corresponds to past tense while this feature is morphologically encoded with the lexical meaning of the verb in the stem and is none separable from the verb stem. The same analysis is extendable to the perfective aspect in the same verb. 
+We will show next that despite feasibility of inflecting each verb for features like tense and aspect, each Tati SVC has a single inflectional structural spine which has scope over the whole event. This point is illustrated in (13) below. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    (13)  
+
+
+
+According to the structure in (13), although all verbs in Tati verb series can be morphologically marked for features like tense and aspect among other features, each Tati SVC has a single value for these features (i.e. a single inflectional structural spine). Hence, the morphological overmarking is a copy of that single value and a result of morphological nature of the language. A piece of evidence for this claim is that changing the value of features like tense and aspect on each verb in (12) involves breaking the mono-eventivity of the SVC and assigning the new inflectional value to a separate event. For instance, changing aspect on bœˈʃœ ‘went’ into imperfective produces mœˈʃœ ‘was going’ and leads to a juxtaposition of three unrelated events ungrammatical for a mono-eventive reading. This is shown in (14) below. Note that since juxtaposition involves a coordination lacking an overt coordinator, the events in (14) are separated from each other using vertical lines representing clause boundaries. 
+
+    (14) 
+
+
+
+Similar to aspect, Test 1 predicts that negating (1) / (12) involves using a single value for negation which has scope over the whole event. In (15), we can observe that a single negator marker (-ne) negates the whole series in (12). 
+
+    (15)  
+
+
+As confirmed by (15), using a single value for negating (12), which still maintains its mono-eventive interpretation, means that negation has scope over all three verbs and negates the action related to all of them. On the other hand, marking each verb in (12) with a negator produces a coordination of three unrelated events shown below in (16). 
+
+    (16)  
+
+
+Note that (16) is interpreted with null coordinations, and this example could actually have overt coordinations like ɒsɒn/ɒsɒni ‘then’ verbalizing the clause boundaries. 
+In sum, the two tests above prove the existence of a single inflectional spine (including aspect and negation) for Tati MPs expressed through SVCs.
+        2.2 Test 2: Agreement-morpheme Shift
+Regarding test 2, each Tati verb is by default marked for an agreement morpheme denoting person, number, and gender of the subject. Consider example (17) below, wherein the verb moχɒˈrijɛ ‘eats’ is marked with -iɛ in an agreement with gurbijɛ ‘cat’ as a 3rd person singular noun which is grammatically feminine. 
+
+
+
+
+
+    (17) 
+
+However, Tati transitive verbs marked for past [pst] tense are not inflected for an agreement morpheme. Instead, agreement morpheme shifts to the internal argument, which is shown below in example (18). 
+
+    (18) 
+
+Since the verb denoting eating in (18), i.e. moˈχɒrd ‘was eating’, is marked for past-tense morphology (i.e. -d), the agreement morpheme -eʃ referring to the external argument gurbijɛ ‘the cat’ is marked on the direct object guʃt ‘meat’ rather than on the verb moˈχɒrd ‘was eating’.
+Test 2 (shared agreement morpheme) predicts that transitivized verbs with past tense in Tati SVCs have a single value for agreement morpheme. This prediction is born out in (19), wherein three verbs share a single agreement morpheme (i.e. -eʃ ). This morpheme refers to the 3rd person singular agent ferɛ ‘the boy’ and is marked on the internal argument œrdækɛ ‘the duck’.
+
+    (19)  
+
+
+On the other hand, an independent agreement morpheme for each verb in (19) produces a coordination of three unrelated events shown below in (20). 
+
+
+
+
+    (20) 
+
+
+To sum up, a single value for agreement morpheme in Tati MPs expressed through SVCs provides another piece of evidence for considering them as mono-eventive.
+
+    3 Evidence for the Hypotheses 2
+Following Larson (1991), set of trees in  represent three potential underlying structures for Tati MPs expressed through SVCs, namely complementation, coordination, and adjunction. 
+
+    (21) 
+a. Complementation	 		b. Coordination								c. Adjunction
+
+
+Based on hypothesis 2 in (10)b, Tati SVCs are made of an underlying complementation structure proposed by Larson (1991), which is shown in a. A complementation structure predicts that the position of an operator higher in the structure c-commands the position of a variable lower in the structure because the variable falls within the c-command domain of the operator (in the blue area). On the other hand, considering alternative proposals, namely coordination in b and adjunction in c, predicts that the operator-variable binding will not hold because the variable falls out of the scope of the operator (in the orange area).
+Two tests, namely subjunctive under negation and Negative Polarity Item (NPI), are used to provide evidence for an operator-variable binding relation and hence an underlying complementation structure for Tati MPs expressed thorough SVCs. These tests rule out a structure based on coordination for Tati SVCs. 
+        3.1 Test1: Subjunctive-under-negation
+As stated earlier a complementation structure for Tati SVCs predicts that an operator higher in the structure binds variable(s) lower in the structure. This is true when negating SVCs. Consider (15) repeated below in (22)a. The corresponding structure related to this example is represented in (22)b.
+    (22)  
+    a.  
+
+    b.  
+
+
+The structure in (22)b predicts that the negator ne- as part of event’s inflectional spine c-commands the three verb stems -be-ɒʃin-‘throw’, be-ʃɛi- ‘go’, and be-ræs- ‘reach’ in its c-command domain. This prediction is determined true since, as shown by (22)a, the morphological nature of the language characterizes this binding through marking the closest verb stem (i.e. be-ɒʃin- ) with the negator ne- and marking the lower stems be-ʃɛi- ‘go’ and be-ræs- ‘reach’ with subjunctive modality. Note that the modality value related to the whole event is indicative, which has scope over the whole event, and the subjunctive modality marked on the lower stems is only a manifestation of c-command. Along the same analysis, the tense value related to the whole event is past and the verbs marked with the subjunctive modality are marked with present tense because subjunctive is realized through marking verbs for the present tense. This, therefore, provides a piece of evidence for hypothesis 2 in (10)b that the series of verbs in Tati MPs are made based on a complementation structure.
+In addition, (22)b predicts that introducing a coordinating conjunction between be-ɒʃin- ‘throw’ and the stems below it interrupts the operation-variable binding relationship because it leaves the lower stems out of the scope of the negator ne-. This prediction proves true as adjusting (22)a with the coordinator ɒm͡mɒ ‘but’ causes the stems be-ʃɛi- ‘go’ and be-ræs- ‘reach’ not to be marked with subjunctive markers. This is shown in (23)a and its structure in (23)b.
+
+
+    (23) 
+    a.  
+
+    b.  
+
+As (23)b shows, the negator ne- c-commands the stems o-ɢo- ‘pick_up’ and b-ɒʃin- ‘throw’, and the result of this c-command relation is spelled out in (23)a through marking o-ɢo- ‘pick_up’ with the negator and b-ɒʃin- ‘throw’ with subjunctive modality. On the other hand, (23)b indicates that the negator ne- does not have scope over the construct containing the verb stems be-ʃɛi- ‘go’, be-ræs- ‘reach’, and ɒ-niʃ- ‘sit’ due to an intervening coordinator, and this lack of c-command is spelled out as indicative, rather than subjunctive, modality in (23)a. This reasoning rules out coordination as an explanations other than complementation for Tati MPs expressed by SVCs, and in turn confirms hypothesis 2 in (10)b. 
+        3.2 Test2: Negative Polarity Item (NPI)
+A Negative Polarity Item (NPI) in Tati requires to be licensed by a c-commanding negator. An example includes (24)a wherein the NPI het͡ʃ ‘any’ is licensed by the negator ne- marked on the verb stem -vin- ‘see’. On the other hand, (24)b is ungrammatical because of the absence of a licensing negator for the NPI het͡ʃ.
+    (24) 
+    a.  
+
+    b.  
+
+Now consider (25) in which two constructs are coordinated using the conjunction ɒm͡mɒ ‘but’. Based on what was established in (24), the NPI het͡ʃ ‘any’ in the second construct in (25) is predicted not to create a grammatical result with the negator ne- in the first construct due to the interrupting coordinator. This prediction proves true as shown in below. 
+
+    (25)  
+
+
+The ungrammaticality of (25) shows that an NPI not only needs to be licensed by a negator, it also needs to be c-commanded by that negator. With the above point stablished, a complementation structure for Tati MPs expressed through SVCs predicts that an NPI lower in the structure will produce a grammatical utterance with a negator introduced higher up in the structure due to a neg-NPI binding. This is shown to be true in example (26)a, where the NPI het͡ʃ ‘any’ modifies the endpoint deræχte sær ‘tree top’ and the negator ne- is marked on the highest verb stem -ɒʃin- ‘throw’. The structure related to this example is represented in (26)b. 
+
+    (26)  
+    a.  
+
+    b. 
+
+
+As (26)b indicates, the negator ne- c-commands the NPI het͡ʃ ‘any’ in its c-command domain. This, in turn, proves that the verbs series bɒˈʃin ‘threw’, bœˈʃœ ‘went’ beræˈsæs ‘reached’ and ɒˈniʃ ‘sat’ in (26)a merge in a complementation structure. On the other hand, it is predicted by (26)b that introducing a coordinating conjunction like ɒm͡mɒ ‘but’ in (26)a will break the neg-NPI binding relationship. As a result, an ungrammatical result will arise, which is shown below in (27)a together with its corresponding tree in (27)b.
+
+    (27)  
+    a.  
+		
+    b. 
+
+As shown by (27b), the negator ne- does not have scope over the coordinated construct, and hence cannot c-command the NPI het͡ʃ ‘any’ in that construct. This provides another piece of evidence for ruling out a structure based on coordination for Tati SVCs. 
+
+    4 Conclusion
+This study examined two hypotheses about Motion Predicates (MPs) conveyed by verbal series in Takestani: (a) they are mono-eventive and therefore considered as Serial Verb Constructions (SVCs), and (b) they are structurally made of a Larsonian complementation structure. Two tests (i.e single inflectional spine and shared agreement morpheme were used in this study to provide evidence for hypothesis 1 and two tests (i.e. subjunctive-under-negation) and NPI were used for hypothesis 2. 
+
+
+
+References
+
+Aikhenvald, A. (2006). Serial verbs constructions in a typological perspective. In A. Y. Aikhenvald & R. M. W. 
+Benedicto, E., & Salomon, E. (2014). Multiple V-V mono-eventive syntactic complex in Mayangna. In WSCLA (Vol. 17, pp. 15–27). University of Chicago.
+Borer, H. (2005). The normal course of events (Vol. 2). Oxford: Oxford University Press.
+Larson, R. K. (1988). On the Double Object Construction. Linguistic Inquiry, 19(3), 335–391.
+Larson, R. K. (1991). Some issues in verb serialization. In Serial verbs: Grammatical, comparative and cognitive approaches (pp. 185–210). Amsterdam: John Benjamins.
+Muysken, P., & Veenstra, T. (2006). Serial Verbs. In M. Everaert &  van H. Riemsdijk (Eds.), The Blackwell companion to syntax (Vol. 1, pp. 234–270). Oxford: Blackwell Publishing Ltd.
+Sebba, M. (1987). The syntax of serial verbs: An investigation into serialization in Sranan and other languages. Amsterdam: Benjamins. 
+
+
+
+Appendix A
+
+List of abbreviations
++ 	the boundary between nominal/adjectival part and light verb in compound verbs
+- 	Morpheme boundary
+‖	Clause boundary
+1 	1 person
+2 	2nd person
+3 	3rd person
+DEF		Definite
+F 			Feminine
+IND		Indicative modality
+NEG 	Negative morpheme
+NOM 	Nominative case
+M 			Masculine
+PRF 		Perfect aspect 
+PRS 		Present tense
+PST 		Past tense
+PV 		Preverb
+SBJV 	Subjunctive mood
+S				Singular
+
+
+
+
+
+
+
+
+
+
+
+	

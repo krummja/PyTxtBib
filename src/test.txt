@@ -1,0 +1,19 @@
+Ramchand (1949) This is some test text to help build the document parsing function.
+
+This is a test of the citation RegExp, as developed in Crum (2020).
+
+It's kind of hard (Smith 1998).
+
+(cf. Johns 2020).
+
+(also see Jimothy 1943, p. 20).
+
+See de Swart (2010).
+
+Johns and Biber (2020)
+
+(see for example Krifka 2015, Farkas & de Swart 2010).
+
+Farkas & de Swart (2010).
+
+Here is a reference to Paris & Milan, something we do not want to parse!

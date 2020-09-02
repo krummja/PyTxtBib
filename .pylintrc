@@ -1,0 +1,6 @@
+[MESSAGES CONTROL]
+disable=unused-variable
+disable=line-too-long
+disable=unused-wildcard-import
+disable=missing-module-docstring
+disable=missing-function-docstring
